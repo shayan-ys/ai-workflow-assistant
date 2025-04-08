@@ -1,0 +1,16 @@
+[requires]
+python_version = "3.8.20"
+
+[packages]
+fastapi = {extras = ["standard"], version = "*"}
+uvicorn = {extras = ["standard"], version = "*"}
+pandas = "*"
+python-multipart = "*"
+sentence-transformers = "*"
+langchain = "*"
+posthog = "==2.5.0"
+chromadb = "*"
+
+[dev-packages]
+flake8 = "*"
+pre-commit = "*"

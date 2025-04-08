@@ -1,0 +1,4 @@
+loan_id,credit_score,default_flag,sale_numbers
+L001,720,0,15000
+L002,680,1,12000
+L003,750,0,18000
