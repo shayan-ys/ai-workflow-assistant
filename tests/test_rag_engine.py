@@ -1,4 +1,4 @@
-from rag.rag_engine import RAGEngine
+from swayai.rag_engine import RAGEngine
 from tests.test_ingest_data import create_collection_from_json_docs
 
 sample_projects = [

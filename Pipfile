@@ -10,6 +10,7 @@ sentence-transformers = "*"
 langchain = "*"
 posthog = "==2.5.0"
 chromadb = "*"
+langchain-openai = "*"
 
 [dev-packages]
 flake8 = "*"

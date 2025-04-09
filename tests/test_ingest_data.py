@@ -1,6 +1,6 @@
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 import logging
-from rag.rag_engine import RAGEngine
+from swayai.rag_engine import RAGEngine
 from typing import List
 
 logger = logging.getLogger(__name__)
